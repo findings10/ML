@@ -5,7 +5,7 @@ html{
 }
 
 div{
-    position: absolute;
+    position: center;
     border-width:2px;
     border-style:solid;
     margin:100px 20px 50px 200px;
@@ -147,7 +147,7 @@ box-shadow:         0px 0px 8px 9px rgba(0, 98, 255, 1);
 
 }
 div:hover{
-    position: absolute;
+    position: center;
     border-width:2px;
     border-style:solid;
     margin:100px 20px 50px 200px;
