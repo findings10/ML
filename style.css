@@ -8,8 +8,8 @@ div{
     position: absolute;
     border-width:2px;
     border-style:solid;
-    margin:auto;
-    padding:50px;30px;
+    margin:100px 20px -50px 200px;
+    padding:50px;
    align-items:center;
   -webkit-box-shadow: 1px 0px 20px 15px rgba(49, 255, 17, 1);
 -moz-box-shadow:    1px 0px 20px 15px rgba(49, 255, 17, 1);
@@ -150,8 +150,8 @@ div:hover{
     position: absolute;
     border-width:2px;
     border-style:solid;
-    margin:auto;
-    padding:50px;30px;
+    margin:100px 20px -50px 200px;
+    padding:50px;
    align-items:center;
    -webkit-box-shadow: 0px 0px 30px 50px rgba(0, 255, 150, 1);
    -moz-box-shadow:    0px 0px 30px 50px rgba(0, 255, 150, 1);
