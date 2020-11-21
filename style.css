@@ -4,17 +4,7 @@ html{
     align-items:center;
 }
 
-div:hover{
-    position: center;
-    border-width:2px;
-    border-style:solid;
-    margin:180px 200px;
-    padding:50px;30px;
-   align-items:center;
-  -webkit-box-shadow: 1px 0px 20px 15px rgba(49, 255, 17, 1);
--moz-box-shadow:    1px 0px 20px 15px rgba(49, 255, 17, 1);
-box-shadow:         1px 0px 20px 15px rgba(49, 255, 17, 1);
-};
+
 
 form{
     display:block;
@@ -157,4 +147,15 @@ div{
    -webkit-box-shadow: 0px 0px 30px 50px rgba(0, 255, 150, 1);
    -moz-box-shadow:    0px 0px 30px 50px rgba(0, 255, 150, 1);
    box-shadow:         0px 0px 30px 50px rgba(0, 255, 150, 1);
+};
+div:hover{
+    position: center;
+    border-width:2px;
+    border-style:solid;
+    margin:180px 200px;
+    padding:50px;30px;
+   align-items:center;
+  -webkit-box-shadow: 1px 0px 20px 15px rgba(49, 255, 17, 1);
+-moz-box-shadow:    1px 0px 20px 15px rgba(49, 255, 17, 1);
+box-shadow:         1px 0px 20px 15px rgba(49, 255, 17, 1);
 };
